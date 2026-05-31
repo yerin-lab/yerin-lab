@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Computer Vision · Multimodal AI · Frontend Development
+  Computer Vision · Multimodal AI · Frontend/Backend Development
 </p>
 
 ---
@@ -11,8 +11,7 @@
 ## About Me
 
 - 🎓 B.S. in Software Engineering (AI), Gachon University
-- 🔬 Interested in Computer Vision and Multimodal AI
-- 💡 Learning AI applications from perception to real-world deployment
+- 🔬 Undergraduate Researcher, IRASC lab, Gachon University
 - 🌱 Currently studying deep learning, CV, and multimodal systems
 
 ---
@@ -73,15 +72,3 @@
 ## 3D Contribution Graph
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yerin-lab&theme=github" />
-
----
-
-## Activity Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yerin-lab&theme=github" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yerin-lab&theme=github" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yerin-lab&theme=github" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yerin-lab&theme=github" />
