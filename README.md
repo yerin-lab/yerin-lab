@@ -11,24 +11,21 @@
 ## About Me
 
 - 🎓 B.S. in Software Engineering (AI), Gachon University
-- 🔬 Undergraduate Researcher, IRASC lab, Gachon University
+- 🔬 Undergraduate Researcher, IRASC lab, Gachon University 
 - 🌱 Currently studying deep learning, CV, and multimodal systems
 
 ---
 
 ## Experience
 
-- ...
-- ...
-- ...
+- 🏢 8th Development Team Staff, BDAI (Big Data Artificial Intelligence) Program
 
 ---
 
 ## Projects
 
-- ...
-- ...
-- ...
+- 💌 속삭편지 — Frontend Developer | 🏆 Excellence Award, UMC 9th Demo Day
+- 👫 단짝이 — Frontend Developer | 🏆 Excellence Award, 9oormthon Univ. Seasonthon
 
 ---
 
