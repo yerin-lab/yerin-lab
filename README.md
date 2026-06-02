@@ -24,7 +24,7 @@
 
 ## Projects
 
-- 💌 속삭편지 — Frontend Developer | 🏆 Excellence Award, UMC 9th Demo Day
+- 💌 [속삭편지](https://github.com/soksak-letter/soksak-Front) — Frontend Developer | 🏆 Excellence Award, UMC 9th Demo Day
 - 👫 단짝이 — Frontend Developer | 🏆 Excellence Award, 9oormthon Univ. Seasonthon
 
 ---
