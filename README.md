@@ -10,22 +10,21 @@
 
 ## About Me
 
-- 🎓 B.S. in Software Engineering (AI), Gachon University
-- 🔬 Undergraduate Researcher, IRASC lab, Gachon University 
+- 🎓 2022.03 - present | B.S. in Software Engineering (AI), Gachon University
+- 🔬 2026.06 - present | Undergraduate Researcher, IRASC lab, Gachon University 
 - 🌱 Currently studying deep learning, CV, and multimodal systems
 
 ---
 
 ## Experience
 
-- 🏢 8th Development Team Staff, BDAI (Big Data Artificial Intelligence) Program
+- 🏢 2026.02 - present | 8th Development Team Staff, BDAI (Big Data Artificial Intelligence) Program
 
 ---
 
 ## Projects
-
-- 💌 [속삭편지](https://github.com/soksak-letter/soksak-Front) — Frontend Developer | 🏆 Excellence Award, UMC 9th Demo Day
-- 👫 단짝이 — Frontend Developer | 🏆 Excellence Award, 9oormthon Univ. Seasonthon
+- 💌 [속삭편지](https://github.com/soksak-letter/soksak-Front) — Frontend Developer | 🏆 Excellence Award, UMC 9th Demo Day (2025.12 - 2026.02)
+- 👫 단짝이 — Frontend Developer | 🏆 Excellence Award, 9oormthon Univ. Seasonthon (2025.08 - 2025.09)
 
 ---
 ## Tech Stack
