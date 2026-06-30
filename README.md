@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Computer Vision · Multimodal AI · Frontend/Backend Development
+  Computer Vision · Multimodal AI · Frontend Development
 </p>
 
 ---
