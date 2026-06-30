@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎓 2022.03 - present | B.S. in Software Engineering (AI), Gachon University
-- 🔬 2026.06 - present | Undergraduate Researcher, IRASC lab, Gachon University 
+- 🔬 2026.06 - present | Undergraduate Researcher, iRASC lab, Gachon University 
 - 🌱 Currently studying deep learning, CV, and multimodal systems
 
 ---
