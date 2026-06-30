@@ -18,11 +18,15 @@
 
 ## Experience
 
-- 🏢 2026.02 - present | 8th Development Team Staff, BDAI (Big Data Artificial Intelligence) Program
+- 2023.09 - 2024.01 | Pay1oad (Gachon University Information Security Club, Completed)
+- 2024.02 - 2025.01 | 16th Statistics Korea Student Reporter (Completed)
+- 2025.03 - 2025.09 | 4th 9oormthon Univ. (Completed)
+- 2025.09 - 2026.02 | 9th UMC Gachon University Web Track (Completed)
+- 2026.02 - present | 8th Development Team Staff, BDAI (Big Data Artificial Intelligence) Program
 
 ---
 
-## Projects
+## Featured Projects
 - 💌 [속삭편지](https://github.com/soksak-letter/soksak-Front) — Frontend Developer | 🏆 Excellence Award, UMC 9th Demo Day (2025.12 - 2026.02)
 - 👫 단짝이 — Frontend Developer | 🏆 Excellence Award, 9oormthon Univ. Seasonthon (2025.08 - 2025.09)
 
