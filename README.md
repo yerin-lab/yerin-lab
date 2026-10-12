@@ -22,7 +22,7 @@
 - 2024.02 - 2025.01 | 16th Statistics Korea Student Reporter (Completed)
 - 2025.03 - 2025.09 | 4th 9oormthon Univ. (Completed)
 - 2025.09 - 2026.02 | 9th UMC Gachon University Web Track (Completed)
-- 2026.02 - present | 8th Development Team Staff, BDAI (Big Data Artificial Intelligence) Program
+- 2026.02 - 2026.08 | 8th Development Team Staff, BDAI (Big Data Artificial Intelligence) Program (Completed)
 
 ---
 
