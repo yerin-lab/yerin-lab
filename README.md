@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Computer Vision · Multimodal AI · Frontend Development
+  Edge AI · Efficient Inference · Frontend Development
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 - 🎓 2022.03 - present | B.S. in Software Engineering (AI), Gachon University
 - 🔬 2026.06 - present | Undergraduate Researcher, iRASC lab, Gachon University 
-- 🌱 Currently studying Edge AI
+- 🌱 Currently studying adaptive inference and hardware-aware AI optimization
 
 ---
 
